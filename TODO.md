@@ -1,3 +1,13 @@
+# TODO
+[DONE] init npm
+[DONE] add a build script
+  [DONE] setup webpack
+  [DONE] make a webpack config file, etc.
+- install react
+- install enzyme, etc...
+- write an index.jsx
+- SingleColor component & page (w/ tests)
+
 # Requirements
 Prism & Dye — A shop for colors
   Frontend: React
@@ -26,11 +36,3 @@ Stage 1.
   Logo somewhere
 
 
-# TODO
-- init npm
-- add a build script
-  - setup webpack
-  - make a webpack config file, etc.
-- install react, enzyme, etc...
-- write an index.jsx
-- SingleColor component & page (w/ tests)

@@ -4,6 +4,9 @@
   "description": "Buy colors here!",
   "main": "index.js",
   "scripts": {
+    "start": "http-server",
+    "build": "webpack",
+    "build-watch": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ashi and Karen",
