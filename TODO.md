@@ -3,10 +3,10 @@
 [DONE] add a build script
   [DONE] setup webpack
   [DONE] make a webpack config file, etc.
-- install react
-- install enzyme, etc...
-- write an index.jsx
-- SingleColor component & page (w/ tests)
+[DONE] install react
+[DONE] install enzyme, etc...
+[DONE] write an index.jsx
+[DONE] SingleColor component & page (w/ tests)
 
 # Requirements
 Prism & Dye — A shop for colors
